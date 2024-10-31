@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Resume Image](https://github.com/AJPHNX/Resume/blob/main/assets/docs/ResumeSML_Flat.svg)
+![Resume Image](https://github.com/AJPHNX/Portfolio/blob/main/public/assets/Resume-2024-pg1.png)
 <!--
 **AJPHNX/AJPHNX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
